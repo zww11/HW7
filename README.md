@@ -10,7 +10,7 @@ Starter code and description for homework 7.
   - git status  
 - Be sure to do commits several times over the project. Do a commit each time that you get something working.
   - git commit -m "Explanation of what you have added"
-- Do a push to put your changes on your fork of this repo.
+- Do a push to put your changes on your fork of this repo on github.  You don't have to do a pull request.  
   - git push -u origin master
 
 You can earn 1 point of extra credit for a possible total of 3 points for each non-trivial commit that you make before Friday Oct 26 at 10pm. Each commit must be at least 3 hours apart.  
