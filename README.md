@@ -8,7 +8,7 @@ Starter code and description for homework 7.
 - Add the modified file to your list of files to commit and check the status
   - git add soupHW.py
   - git status  
-- Be sure to do commits several times over the project.  
+- Be sure to do commits several times over the project. Do a commit each time that you get something working.
   - git commit -m "Explanation of what you have added"
 - Do a push to put your changes on your fork of this repo.
   - git push -u origin master
